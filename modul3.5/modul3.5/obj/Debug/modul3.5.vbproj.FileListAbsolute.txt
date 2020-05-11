@@ -1,0 +1,11 @@
+D:\modul 3\modul3.5\modul3.5\obj\Debug\modul3.5.vbprojAssemblyReference.cache
+D:\modul 3\modul3.5\modul3.5\obj\Debug\modul3._5.Form1.resources
+D:\modul 3\modul3.5\modul3.5\obj\Debug\modul3._5.Resources.resources
+D:\modul 3\modul3.5\modul3.5\obj\Debug\modul3.5.vbproj.GenerateResource.cache
+D:\modul 3\modul3.5\modul3.5\bin\Debug\modul3.5.exe.config
+D:\modul 3\modul3.5\modul3.5\bin\Debug\modul3.5.exe
+D:\modul 3\modul3.5\modul3.5\bin\Debug\modul3.5.pdb
+D:\modul 3\modul3.5\modul3.5\bin\Debug\modul3.5.xml
+D:\modul 3\modul3.5\modul3.5\obj\Debug\modul3.5.exe
+D:\modul 3\modul3.5\modul3.5\obj\Debug\modul3.5.xml
+D:\modul 3\modul3.5\modul3.5\obj\Debug\modul3.5.pdb

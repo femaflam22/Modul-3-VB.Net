@@ -1,0 +1,11 @@
+D:\modul 3\modul3.2a\modul3.2a\bin\Debug\modul3.2a.exe.config
+D:\modul 3\modul3.2a\modul3.2a\bin\Debug\modul3.2a.exe
+D:\modul 3\modul3.2a\modul3.2a\bin\Debug\modul3.2a.pdb
+D:\modul 3\modul3.2a\modul3.2a\bin\Debug\modul3.2a.xml
+D:\modul 3\modul3.2a\modul3.2a\obj\Debug\modul3.2a.vbprojAssemblyReference.cache
+D:\modul 3\modul3.2a\modul3.2a\obj\Debug\modul3._2a.Form1.resources
+D:\modul 3\modul3.2a\modul3.2a\obj\Debug\modul3._2a.Resources.resources
+D:\modul 3\modul3.2a\modul3.2a\obj\Debug\modul3.2a.vbproj.GenerateResource.cache
+D:\modul 3\modul3.2a\modul3.2a\obj\Debug\modul3.2a.exe
+D:\modul 3\modul3.2a\modul3.2a\obj\Debug\modul3.2a.xml
+D:\modul 3\modul3.2a\modul3.2a\obj\Debug\modul3.2a.pdb

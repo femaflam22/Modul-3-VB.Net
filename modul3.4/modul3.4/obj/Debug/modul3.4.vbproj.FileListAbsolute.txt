@@ -1,0 +1,10 @@
+D:\modul 3\modul3.4\modul3.4\bin\Debug\modul3.4.exe.config
+D:\modul 3\modul3.4\modul3.4\bin\Debug\modul3.4.exe
+D:\modul 3\modul3.4\modul3.4\bin\Debug\modul3.4.pdb
+D:\modul 3\modul3.4\modul3.4\bin\Debug\modul3.4.xml
+D:\modul 3\modul3.4\modul3.4\obj\Debug\modul3._4.Form1.resources
+D:\modul 3\modul3.4\modul3.4\obj\Debug\modul3._4.Resources.resources
+D:\modul 3\modul3.4\modul3.4\obj\Debug\modul3.4.vbproj.GenerateResource.cache
+D:\modul 3\modul3.4\modul3.4\obj\Debug\modul3.4.exe
+D:\modul 3\modul3.4\modul3.4\obj\Debug\modul3.4.xml
+D:\modul 3\modul3.4\modul3.4\obj\Debug\modul3.4.pdb
